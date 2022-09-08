@@ -1,3 +1,20 @@
+■PR概要
+(どんなアプリか、何の学習で作成したか)
+■アプリ作成時参考リンク
+■コーディングを行った
+MainActivity.kt
+https://github.com/mayuYoshikawa/Lemonade/blob/ee4d2863f497c25882ab499910dd3a41810544dc/app/src/main/java/com/example/lemonade/MainActivity.kt
+
+(レビューしてほしい)ファイル名　リンクでアクセスできる方法ありそう
+■動作確認内容
+(アプリとして動作に問題ないか、Testファイルで etc…..)
+
+
+
+
+
+
+
 Project: Lemonade App - Starter Code
 ==================================
 
