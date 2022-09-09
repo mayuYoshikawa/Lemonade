@@ -1,18 +1,18 @@
-1. PR概要
+1. PR概要                                          
 表示されている画像タップした際に文字と画像を変更させ、レモネードを作成するアプリ。
 追加でカウントとスキップ機能があるボタンを作成しました。
 Mainactivityとxmlファイルで基本的なレイアウトやを作成する方法を学習しました。
 (どんなアプリか、何の学習で作成したか)
-2. アプリ作成時参考リンク
+2. アプリ作成時参考リンク                                    
 https://developer.android.com/codelabs/basic-android-kotlin-training-project-lemonade?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-four%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-lemonade#1
-3. コーディングを行った
+
+https://liginc.co.jp/489910
+
+https://pg.akihiro-takeda.com/android-layout-center/
+3. コーディングを行ったファイル名                         
 MainActivity.kt
 https://github.com/mayuYoshikawa/Lemonade/blob/ee4d2863f497c25882ab499910dd3a41810544dc/app/src/main/java/com/example/lemonade/MainActivity.kt
-
-
-(レビューしてほしい)ファイル名　リンクでアクセスできる方法ありそう
----------------
-4. 動作確認内容
+4. 動作確認内容                            
 (アプリとして動作に問題ないか、Testファイルで etc…..)
 
 
