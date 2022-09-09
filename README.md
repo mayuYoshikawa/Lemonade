@@ -9,9 +9,13 @@ https://developer.android.com/codelabs/basic-android-kotlin-training-project-lem
 https://liginc.co.jp/489910
 
 https://pg.akihiro-takeda.com/android-layout-center/
+
+
 3. コーディングを行ったファイル名                         
 MainActivity.kt
 https://github.com/mayuYoshikawa/Lemonade/blob/ee4d2863f497c25882ab499910dd3a41810544dc/app/src/main/java/com/example/lemonade/MainActivity.kt
+activity_main.xml
+https://github.com/mayuYoshikawa/Lemonade/blob/bc771ea2b1ddf20f3322fe32b5c29eddb089cde7/app/src/main/res/layout/activity_main.xml
 4. 動作確認内容                            
 (アプリとして動作に問題ないか、Testファイルで etc…..)
 
